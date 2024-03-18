@@ -270,3 +270,4 @@ c:\Users\Admin\Desktop\project\Banking\BankTransactions\obj\Debug\net8.0\refint\
 c:\Users\Admin\Desktop\project\Banking\BankTransactions\obj\Debug\net8.0\BankTransactions.pdb
 c:\Users\Admin\Desktop\project\Banking\BankTransactions\obj\Debug\net8.0\BankTransactions.genruntimeconfig.cache
 c:\Users\Admin\Desktop\project\Banking\BankTransactions\obj\Debug\net8.0\ref\BankTransactions.dll
+C:\Users\Admin\Desktop\project\Banking\BankTransactions\obj\Debug\net8.0\BankTransactions.sourcelink.json
